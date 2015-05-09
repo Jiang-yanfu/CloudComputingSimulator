@@ -1,4 +1,5 @@
 # CloudComputingSimulator
+<<<<<<< HEAD
 ##I. Introduction
 A project of initial research in ISEP with the Prof. Sylvain Lefebvre, called Cloud Computing Simizer. This project aims to using java to develop a GUI of a program about cloud computing which developped by the Prof. Sylvain.
 
@@ -25,3 +26,6 @@ Here we need to do is to develop a program by java.
 
 ##V. Version Note
 version 0.2 at 10 May 2015
+=======
+A project of initial research in ISEP with the Prof. Sylvain Lefebvre
+>>>>>>> 4b44b923e9bf4c8ca8b47fbf563102dc9b7e2f2b
