@@ -25,7 +25,18 @@ Here we need to do is to develop a program by java.
 *	Using the Swing for GUI
 
 ##V. Version Note
-version 0.2 at 10 May 2015
+version 0.2 at 1 May 2015
+realise the basic frame of GUI
+by Zhengshuai
+---
+version 0.3 at 11 May 2015
+realise the drag and drop function
+realise the open and save file function
+by Zhengshuai
+---
+ 
+
+
 =======
 A project of initial research in ISEP with the Prof. Sylvain Lefebvre
 >>>>>>> 4b44b923e9bf4c8ca8b47fbf563102dc9b7e2f2b
