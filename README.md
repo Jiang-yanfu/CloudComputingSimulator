@@ -34,7 +34,8 @@ realise the drag and drop function
 realise the open and save file function
 by Zhengshuai
 ---
- 
+---
+Modify ven. 15. mai 2015
 
 
 =======
